@@ -118,6 +118,7 @@ Command-line utilities for working with Djot documents.
 
 Tools for converting Djot to other formats.
 
+- [cdjot](https://github.com/karlb/cdjot/) - Dependency-free Djot to HTML converter in C99.
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
 - [djot-php AnsiRenderer](https://php-collective.github.io/djot-php/cookbook/ansi.html) - Convert Djot to ANSI-colored terminal output.
 - [djot-php MarkdownRenderer](https://php-collective.github.io/djot-php/cookbook/markdown.html) - Convert Djot to CommonMark Markdown.
@@ -194,6 +195,7 @@ Interactive playgrounds for experimenting with Djot.
 Websites and blogs built with Djot.
 
 - [dereuromark.de](https://www.dereuromark.de/) - PHP/CakePHP developer blog using djot-php through wp-djot.
+- [karl.berlin](https://www.karl.berlin) - Blog with custom Djot-based static site generator.
 - [matklad.github.io](https://matklad.github.io/) - Alex Kladov's blog, migrated from AsciiDoctor.
 - [pdx.su](https://pdx.su/) - Blog using Djot with Elixir and Tableau.
 
@@ -209,6 +211,7 @@ Articles and tutorials for learning Djot.
 - 2024-02: [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/) - Practical comparison and migration experience.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
+- 2026-05: [I prefer Djot over Markdown](https://www.karl.berlin/djot.html) - Opinions and personal experience related to CommonMark and Djot.
 
 ### Tutorials
 
